@@ -6,3 +6,7 @@
 - Calendars invitation
 - Office space attribution
 - Lab computer access (see onboarding files for VPN setup and tutorials for SSH setup)
+
+## Introduction to the group
+
+See [official website](https://hudsonlab.se/).
