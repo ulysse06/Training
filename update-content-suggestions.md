@@ -1,3 +1,10 @@
+### [LOGISTICS] adding user to linux systems
+
+```
+sudo useradd -m -s /bin/bash <userName>
+sudo passwd <userName>
+```
+
 ### Structured updates to online lessons
 =======
 #1.##CLI Components ###Command : space separated instruction line= command + options
